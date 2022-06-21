@@ -1,0 +1,50 @@
+
+{
+    "courses": [
+       {	
+           "id": "1",
+            "course_type" : "software development",
+           "program_type": ["full time", "virtual"],
+           "institution":["moringa_school","kca","uon","jkuat"],
+           "domain": [  ],
+           "county": ["nairobi","mombasa","nakuru","machakos"]
+       },
+   
+   	{	
+        "id": "2",
+         "course_type" : "software development",
+        "program_type": ["full time", "virtual"],
+        "institution":["moringa_school","kca","uon","jkuat"],
+        "domain": [  ],
+        "county": ["nairobi","mombasa","nakuru","machakos"]
+    },
+    {	
+        "id": "3",
+         "course_type" : "software development",
+        "program_type": ["full time", "virtual"],
+        "institution":["moringa_school","kca","uon","jkuat"],
+        "domain": [  ],
+        "county": ["nairobi","mombasa","nakuru","machakos"]
+    },
+    {	
+        "id": "4",
+         "course_type" : "software development",
+        "program_type": ["full time", "virtual"],
+        "institution":["moringa_school","kca","uon","jkuat"],
+        "domain": [  ],
+        "county": ["nairobi","mombasa","nakuru","machakos"]
+    },
+    {	
+        "id": "5",
+         "course_type" : "software development",
+        "program_type": ["full time", "virtual"],
+        "institution":["moringa_school","kca","uon","jkuat"],
+        "domain": [  ],
+        "county": ["nairobi","mombasa","nakuru","machakos"]
+    }
+   
+   
+           ]
+   }
+           
+   
