@@ -11,7 +11,7 @@
         "nairobi institute of software development",
         "zalego academy"
       ],
-      "image_url":"./images/",
+      "image_url":"https://images.unsplash.com/photo-1630518329204-0493b4149dfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
       "county": ["nairobi", "kiambu"]
     },
 
@@ -20,7 +20,7 @@
       "course_type": "accounting",
       "program_type": ["full time", "virtual"],
       "institution": ["uon", "kca", "ku", "jkuat", "anu", "chuka university"],
-      "image_url":"./images/",
+      "image_url":"https://images.unsplash.com/photo-1552996741-9632af83896d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
       "county": ["nairobi", "kiambu", "tharaka nithi"]
     },
     {
@@ -36,7 +36,7 @@
       "course_type": "business administration",
       "program_type": ["full time", "virtual"],
       "institution": ["nibs", "kca", "mmu", "jkuat", "laikipia university"],
-      "image_url":"./images/",
+      "image_url":"https://images.unsplash.com/photo-1598941101837-e3fdd6d94b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80",
       "county": ["nairobi", "laikipia"]
     },
     {
@@ -49,7 +49,7 @@
         "technical university of kenya",
         "egerton"
       ],
-      "image_url":"./images/",
+      "image_url":"https://images.unsplash.com/photo-1606761568499-6d2451b23c66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
       "county": ["nairobi", "nakuru"]
     },
     {
@@ -61,7 +61,7 @@
         "east african school of journalism",
         "kenya institute of mass communication"
       ],
-      "image_url":"./images/",
+      "image_url":"https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
       "county": ["nairobi"]
     },
     {
@@ -74,7 +74,7 @@
         "uon",
         "south eastern kenya university"
       ],
-      "image_url":"./images/",
+      "image_url":"https://images.unsplash.com/photo-1562585195-97aff4b3848c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
       "county": ["nairobi", "kitui", "machakos"]
     },
     {
@@ -88,7 +88,7 @@
         "africa nazarene university",
         "dedan kimathi"
       ],
-      "image_url":"./images/",
+      "image_url":"https://images.unsplash.com/photo-1627556704302-624286467c65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
       "county": ["nairobi", "kajiado", "nyeri"]
     },
     {
@@ -96,7 +96,7 @@
       "course_type": "electrical engineering",
       "program_type": ["full time", "virtual"],
       "institution": ["uon", "egerton", "ku", "jkuat","pwani university"],
-      "image_url":"./images/",
+      "image_url":"https://images.unsplash.com/photo-1590012314607-cda9d9b699ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
       "county": ["nairobi", "mombasa", "nakuru"]
     },
     {
@@ -104,7 +104,7 @@
       "course_type": "medicine",
       "program_type": ["full time", "virtual"],
       "institution": ["uon", "kmtc", "ku"],
-      "image_url":"./images/",
+      "image_url":"https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHVuaXZlcnNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
       "county": ["nairobi", "mombasa", "nakuru", "machakos"]
     },
     {
@@ -112,7 +112,7 @@
       "course_type": "entrepreneurship",
       "program_type": ["full time", "virtual"],
       "institution": ["kca", "meru university", "mku", "gretsa"],
-      "image_url":"./images/",
+      "image_url":"https://images.unsplash.com/photo-1506377872008-6645d9d29ef7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
       "county": ["nairobi", "meru", "kiambu", "usiu"]
     }
   ]
