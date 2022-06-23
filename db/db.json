@@ -2,8 +2,8 @@
   "courses": [
     {
       "id": "1",
-      "course_type": "software development",
-      "program_type": ["full time", "virtual"],
+      "title": "software development",
+      "type": [ "virtual"],
       "institution": [
         "moringa_school",
         "jkuat",
@@ -11,76 +11,76 @@
         "nairobi institute of software development",
         "zalego academy"
       ],
-      "image_url":"./images/",
+      "image":"./images/",
       "county": ["nairobi", "kiambu"]
     },
 
     {
       "id": "2",
-      "course_type": "accounting",
-      "program_type": ["full time", "virtual"],
+      "title": "accounting",
+      "type": ["full time", "virtual"],
       "institution": ["uon", "kca", "ku", "jkuat", "anu", "chuka university"],
-      "image_url":"./images/",
+      "image":"./images/",
       "county": ["nairobi", "kiambu", "tharaka nithi"]
     },
     {
       "id": "3",
-      "course_type": "acturial science",
-      "program_type": ["full time", "virtual"],
+      "title": "acturial science",
+      "type": ["full time", "virtual"],
       "institution": ["uon", "ku", "cuea", "jkuat", "kimathi university"],
-      "image_url":"./images/",
+      "image":"./images/",
       "county": ["nairobi", "nyeri"]
     },
     {
       "id": "4",
-      "course_type": "business administration",
-      "program_type": ["full time", "virtual"],
+      "title": "business administration",
+      "type": [ "virtual"],
       "institution": ["nibs", "kca", "mmu", "jkuat", "laikipia university"],
-      "image_url":"./images/",
+      "image":"./images/",
       "county": ["nairobi", "laikipia"]
     },
     {
       "id": "5",
-      "course_type": "civil engineering",
-      "program_type": ["full time", "virtual"],
+      "title": "civil engineering",
+      "type": ["full time", "virtual"],
       "institution": [
         "uon",
         "jkuat",
         "technical university of kenya",
         "egerton"
       ],
-      "image_url":"./images/",
+      "image":"./images/",
       "county": ["nairobi", "nakuru"]
     },
     {
       "id": "6",
-      "course_type": "journalism",
-      "program_type": ["full time", "virtual"],
+      "title": "journalism",
+      "type": ["full time"],
       "institution": [
         "kenya institute of media and technology",
         "east african school of journalism",
         "kenya institute of mass communication"
       ],
-      "image_url":"./images/",
+      "image":"./images/",
       "county": ["nairobi"]
     },
     {
       "id": "7",
-      "course_type": "economics",
-      "program_type": ["full time", "virtual"],
+      "title": "economics",
+      "type": ["full time", "virtual"],
       "institution": [
         "machakos university",
         "kca",
         "uon",
         "south eastern kenya university"
       ],
-      "image_url":"./images/",
+      "image":"./images/",
       "county": ["nairobi", "kitui", "machakos"]
     },
     {
       "id": "8",
-      "course_type": "criminology",
-      "program_type": ["full time", "virtual"],
+      "title": "criminology",
+      "type": [ "virtual"],
       "institution": [
         "kenya institute of criminal justice",
         "ku",
@@ -88,32 +88,32 @@
         "africa nazarene university",
         "dedan kimathi"
       ],
-      "image_url":"./images/",
+      "image":"./images/",
       "county": ["nairobi", "kajiado", "nyeri"]
     },
     {
       "id": "9",
-      "course_type": "electrical engineering",
-      "program_type": ["full time", "virtual"],
+      "title": "electrical engineering",
+      "type": ["full time", "virtual"],
       "institution": ["uon", "egerton", "ku", "jkuat","pwani university"],
-      "image_url":"./images/",
+      "image":"./images/",
       "county": ["nairobi", "mombasa", "nakuru"]
     },
     {
       "id": "10",
-      "course_type": "medicine",
-      "program_type": ["full time", "virtual"],
+      "title": "medicine",
+      "type": ["full time"],
       "institution": ["uon", "kmtc", "ku"],
-      "image_url":"./images/",
+      "image":"./images/",
       "county": ["nairobi", "mombasa", "nakuru", "machakos"]
     },
     {
       "id": "11",
-      "course_type": "entrepreneurship",
-      "program_type": ["full time", "virtual"],
+      "title": "entrepreneurship",
+      "type": ["full time", "virtual"],
       "institution": ["kca", "meru university", "mku", "gretsa"],
-      "image_url":"./images/",
-      "county": ["nairobi", "meru", "kiambu", "usiu"]
+      "image":"./images/",
+      "county": ["nairobi", "meru", "kiambu"]
     }
   ]
 }
