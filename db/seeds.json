@@ -6,9 +6,7 @@
       "program_type": ["full time", "virtual"],
       "institution": [
         "moringa_school",
-        "jkuat",
-        "institute of software technologies",
-        "nairobi institute of software development",
+        "jkuat", 
         "zalego academy"
       ],
       "image_url":"https://images.unsplash.com/photo-1630518329204-0493b4149dfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
@@ -19,7 +17,7 @@
       "id": "2",
       "course_type": "accounting",
       "program_type": ["full time", "virtual"],
-      "institution": ["uon", "kca", "ku", "jkuat", "anu", "chuka university"],
+      "institution": ["uon", "kca", "ku", "jkuat"],
       "image_url":"https://images.unsplash.com/photo-1552996741-9632af83896d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
       "county": ["nairobi", "kiambu", "tharaka nithi"]
     },
@@ -27,15 +25,15 @@
       "id": "3",
       "course_type": "acturial science",
       "program_type": ["full time", "virtual"],
-      "institution": ["uon", "ku", "cuea", "jkuat", "kimathi university"],
-      "image_url":"./images/",
+      "institution": ["uon", "ku", "cuea"],
+      "image_url":"https://images.unsplash.com/photo-1590012314607-cda9d9b699ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
       "county": ["nairobi", "nyeri"]
     },
     {
       "id": "4",
       "course_type": "business administration",
       "program_type": ["full time", "virtual"],
-      "institution": ["nibs", "kca", "mmu", "jkuat", "laikipia university"],
+      "institution": ["nibs", "mmu",  "laikipia university"],
       "image_url":"https://images.unsplash.com/photo-1598941101837-e3fdd6d94b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80",
       "county": ["nairobi", "laikipia"]
     },
@@ -46,7 +44,6 @@
       "institution": [
         "uon",
         "jkuat",
-        "technical university of kenya",
         "egerton"
       ],
       "image_url":"https://images.unsplash.com/photo-1606761568499-6d2451b23c66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
@@ -71,7 +68,6 @@
       "institution": [
         "machakos university",
         "kca",
-        "uon",
         "south eastern kenya university"
       ],
       "image_url":"https://images.unsplash.com/photo-1562585195-97aff4b3848c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
@@ -82,8 +78,6 @@
       "course_type": "criminology",
       "program_type": ["full time", "virtual"],
       "institution": [
-        "kenya institute of criminal justice",
-        "ku",
         "kenya institute of social work",
         "africa nazarene university",
         "dedan kimathi"
@@ -95,7 +89,7 @@
       "id": "9",
       "course_type": "electrical engineering",
       "program_type": ["full time", "virtual"],
-      "institution": ["uon", "egerton", "ku", "jkuat","pwani university"],
+      "institution": ["uon", "egerton", "pwani university"],
       "image_url":"https://images.unsplash.com/photo-1590012314607-cda9d9b699ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
       "county": ["nairobi", "mombasa", "nakuru"]
     },
@@ -113,7 +107,7 @@
       "program_type": ["full time", "virtual"],
       "institution": ["kca", "meru university", "mku", "gretsa"],
       "image_url":"https://images.unsplash.com/photo-1506377872008-6645d9d29ef7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-      "county": ["nairobi", "meru", "kiambu", "usiu"]
+      "county": ["nairobi", "meru", "kiambu"]
     }
   ]
 }
