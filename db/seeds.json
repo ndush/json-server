@@ -2,62 +2,126 @@
   "courses": [
     {
       "id": "1",
-      "course_type": "software development",
-      "institution":  "moringa_school",
+      "course_type": "Software development",
+      "institution":  "Moringa_school",
       "image_url": "https://images.unsplash.com/photo-1630518329204-0493b4149dfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      "county": "nairobi county"
+      "county": "Nairobi county"
         
       
     },
     {
       "id": "2",
-      "course_type": "accounting",
-      "institution": "muranga university",
+      "course_type": "Accounting",
+      "institution": "Muranga university",
      "image_url": "https://images.unsplash.com/photo-1552996741-9632af83896d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-      "county": "kiambu county"
+      "county": "Kiambu county"
    
     },
     {
       "id": "3",
-      "course_type": "acturial science",
-      "institution": "laikipia university",
+      "course_type": "Acturial science",
+      "institution": "Laikipia university",
       "image_url": "https://images.unsplash.com/photo-1590012314607-cda9d9b699ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
-      "county": "laikipia county"
+      "county": "Laikipia county"
     },
     {
       "id": "4",
-      "course_type": "business administration",
-      "institution": "meru university",
+      "course_type": "Business administration",
+      "institution": "Meru university",
       "image_url": "https://images.unsplash.com/photo-1598941101837-e3fdd6d94b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80",
-      "county": "meru county"
+      "county": "Meru county"
     },
     {
       "id": "5",
-      "course_type": "civil engineering",
-      "institution": "garissa university",
+      "course_type": "Civil engineering",
+      "institution": "Garissa university",
       "image_url": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-      "county": "garissa county"
+      "county": "Garissa county"
     },
     {
       "id": "6",
-      "course_type": "journalism",
-      "institution": "gretsa university",
+      "course_type": "Journalism",
+      "institution": "Gretsa university",
       "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-      "county": "kiambu county"
+      "county": "Kiambu county"
     },
     {
       "id": "7",
-      "course_type": "architecture",
-      "institution": "kmtc",
+      "course_type": "Architecture",
+      "institution": "Kmtc",
       "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-      "county": "marsabit county"
+      "county": "Marsabit county"
     },
     {
       "id": "8",
-      "course_type": "criminology",
-      "institution": "egerton university",
+      "course_type": "Criminology",
+      "institution": "Egerton university",
       "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-      "county": "nakuru county"
+      "county": "Nakuru county"
+      
+    },
+    {
+      "id": "9",
+      "course_type": "Zoology",
+      "institution": "Maseno university",
+      "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "county": "Kisumu county"
+      
+    },
+    {
+      "id": "10",
+      "course_type": "Mechanical engineering",
+      "institution": "Dedan Kimathi University",
+      "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "county": "Nakuru county"
+      
+    },
+    {
+      "id": "11",
+      "course_type": "Medicine",
+      "institution": "Kemu university",
+      "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "county": "Meru county"
+      
+    },
+    {
+      "id": "12",
+      "course_type": "Languages",
+      "institution": "Umma university",
+      "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "county": "Kajiado county"
+      
+    },
+    {
+      "id": "13",
+      "course_type": "Theology",
+      "institution": "ANU",
+      "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "county": "Kajiado county"
+      
+    },
+    {
+      "id": "14",
+      "course_type": "Nursing",
+      "institution": "Pwani university",
+      "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "county": "Mombasa county"
+      
+    },
+    {
+      "id": "15",
+      "course_type": "Commerce",
+      "institution": "MKU",
+      "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "county": "Kiambu county"
+      
+    },
+    {
+      "id": "16",
+      "course_type": "Phsychology",
+      "institution": "Kiriri university",
+      "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "county": "Nairobi county"
       
     }
   ]
