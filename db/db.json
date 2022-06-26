@@ -3,122 +3,62 @@
     {
       "id": "1",
       "course_type": "software development",
-      "institution": {
-        "in1": "moringa_school",
-        "in2": "jkuat",
-        "in3": "zalego academy"
-      },
+      "institution":  "moringa_school",
       "image_url": "https://images.unsplash.com/photo-1630518329204-0493b4149dfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-      "county": {
-        "cnt1": "nairobi",
-        "cnt2": "kiambu",
-        "cnt3": "nairobi"
-      }
+      "county": "nairobi county"
+        
+      
     },
     {
       "id": "2",
       "course_type": "accounting",
-      "institution": {
-        "in1": "uon",
-        "in2": "kca",
-        "in3": "ku"
-      },
-      "image_url": "https://images.unsplash.com/photo-1552996741-9632af83896d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-      "county": {
-        "cnt1": "nairobi",
-        "cnt2": "nairobi",
-        "cnt3": "kiambu"
-      }
+      "institution": "muranga university",
+     "image_url": "https://images.unsplash.com/photo-1552996741-9632af83896d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+      "county": "kiambu county"
+   
     },
     {
       "id": "3",
       "course_type": "acturial science",
-      "institution": {
-        "in1": "uon",
-        "in2": "ku",
-        "in3": "cuea"
-      },
+      "institution": "laikipia university",
       "image_url": "https://images.unsplash.com/photo-1590012314607-cda9d9b699ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80",
-      "county": {
-        "cnt1": "nairobi",
-        "cnt2": "kiambu",
-        "cnt3": "nairobi"
-      }
+      "county": "laikipia county"
     },
     {
       "id": "4",
       "course_type": "business administration",
-      "institution": {
-        "in1": "nibs",
-        "in2": "mmu",
-        "in3": "laikipia university"
-      },
+      "institution": "meru university",
       "image_url": "https://images.unsplash.com/photo-1598941101837-e3fdd6d94b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1473&q=80",
-      "county": {
-        "cnt1": "nairobi",
-        "cnt2": "kajiado",
-        "cnt3": "laikipia"
-      }
+      "county": "meru county"
     },
     {
       "id": "5",
       "course_type": "civil engineering",
-      "institution": {
-        "in1": "uon",
-        "in2": "maseno",
-        "in3": "egerton"
-      },
+      "institution": "garissa university",
       "image_url": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
-      "county": {
-        "cnt1": "nairobi",
-        "cnt2": "kisumu",
-        "cnt3": "nakuru"
-      }
+      "county": "garissa county"
     },
     {
       "id": "6",
       "course_type": "journalism",
-      "institution": {
-        "in1": "kenya institute of media and technology",
-        "in2": "east african school of journalism",
-        "in3": "kenya institute of mass communication"
-      },
+      "institution": "gretsa university",
       "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-      "county": {
-        "cnt1": "nairobi",
-        "cnt2": "nairobi",
-        "cnt3": "nairobi"
-      }
+      "county": "kiambu county"
     },
     {
       "id": "7",
       "course_type": "architecture",
-      "institution": {
-        "in1": "machakos university",
-        "in2": "garissa university",
-        "in3": "baraton university"
-      },
+      "institution": "kmtc",
       "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-      "county": {
-        "cnt1": "machakos",
-        "cnt2": "garissa",
-        "cnt3": "nandi"
-      }
+      "county": "marsabit county"
     },
     {
       "id": "8",
       "course_type": "criminology",
-      "institution": {
-        "in1": "anu",
-        "in2": "pac",
-        "in3": "st pauls"
-      },
+      "institution": "egerton university",
       "image_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-      "county": {
-        "cnt1": "kajiado",
-        "cnt2": "kiambu",
-        "cnt3": "kiambu"
-      }
+      "county": "nakuru county"
+      
     }
   ]
 }
